@@ -15,11 +15,11 @@ I am currently finishing up my 6th semester, and I have 1 semesters left until I
 <!-- My skills -->
 ### 🔧 My Skills:
 OOP in Java; 
-Data science and statistics in Python (including Pandas, numpy, scikitlearn, bs4),
-and in R (including caret, Plotly, dplyr, . <br/>
+Data science and statistics in Python (including Pandas, numpy, scikitlearn, bs4)
+and in R (including caret, ggplot2, dplyr) <br/>
 Web programming using JavaScript, React, and database access using firebase and pgAdmin (postgreSQL).
 </br>
-Design tools such as Figma, MUI, Bootstrap, Postman.</br>
+Design tools such as Figma, MUI, Bootstrap.</br>
 
 <br/> <br/>
 ![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS](https://img.icons8.com/color/30/css.png)![C](https://img.icons8.com/color/30/c-sharp-logo.png)![JAVA](https://img.icons8.com/color/30/java.png)![Python](https://img.icons8.com/color/30/python.png)![SQL](https://img.icons8.com/color/30/sql.png)![JSON](https://img.icons8.com/color/30/json.png)![XML](https://img.icons8.com/color/30/xml.png)![FIREBASE](https://img.icons8.com/color/30/firebase.png)![GITHUB](https://img.icons8.com/color/30/github.png)![VISUAL-STUDIO](https://img.icons8.com/color/30/visual-studio.png)![VISUAL-STUDIO-CODE](https://img.icons8.com/color/30/visual-studio-code-2019.png)
