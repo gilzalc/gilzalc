@@ -31,8 +31,8 @@ Design tools such as Figma, MUI, Bootstrap.</br>
 
 #### ⚗️ Last projects
 [Recipe generation web app </br> dummy code: cE2TTVcL5nNLR83Z3dye6qscjLa2](https://grandma-cooked-oatmeal.web.app/) | 
-[Series website](https://github.com/idankauf-hub/MovieDB) | 
-[Crypto trading app- react native](https://github.com/idankauf-hub/cointerest) 
+[Fake news detector](https://colab.research.google.com/drive/1d0T7mT6rUUnSvD7Ei1J7WRqat1bCek4q) | 
+[Yelp consult]() 
 ---
 
 
