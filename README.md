@@ -44,6 +44,7 @@ Design tools such as Figma, MUI, Bootstrap.</br>
 [Recipe generation web app](https://grandma-cooked-oatmeal.web.app/) </br><span STYLE="font-size:5.0pt">exp. code:
  cE2TTVcL5nNLR83Z3dye6qscjLa2 </span> </br>
 [Fake news detector](https://colab.research.google.com/drive/1d0T7mT6rUUnSvD7Ei1J7WRqat1bCek4q) </br>
+[Tiny ML- from model to deployment](https://colab.research.google.com/drive/1d0T7mT6rUUnSvD7Ei1J7WRqat1bCek4q)</br>
 [Yelp consult]() </br>
 
 ---
@@ -70,17 +71,3 @@ Design tools such as Figma, MUI, Bootstrap.</br>
 <!-- My Knowledge-LIST:END -->
 </details>
 <!-- My Projects -->
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
