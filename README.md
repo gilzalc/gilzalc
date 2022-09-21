@@ -1,11 +1,11 @@
 <!-- About Me -->
 ### 🦁 About Me: 
-Hi there!
+Hello there!
 My name is Gil Zalcberg, <br/>
-I am a B.Sc student in the MATAR excellence program,
-in the The School of Computer Science & Engineering at The Hebrew University of Jerusalem.
-I'm also studying for a minor in CS, and for a 
-I am currently finishing up my 6th semester, and I have 1 semesters left until I graduate.
+I am a B.Sc student in the "MATAR",
+an excellence program of the The School of Computer Science & Engineering- The Hebrew University of Jerusalem.
+I'm also studying a minor in CS, 
+currently finishing up my 6th semester, and I have 1 semesters left until I graduate.
 <br/><br/>[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gil-zalcberg-234b481ba/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gilzalcberg96@gmail.com)
 <!--END About me -->
@@ -22,7 +22,18 @@ Web programming using JavaScript, React, and database access using firebase and 
 Design tools such as Figma, MUI, Bootstrap.</br>
 
 <br/> <br/>
-![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS](https://img.icons8.com/color/30/css.png)![C](https://img.icons8.com/color/30/c-sharp-logo.png)![JAVA](https://img.icons8.com/color/30/java.png)![Python](https://img.icons8.com/color/30/python.png)![SQL](https://img.icons8.com/color/30/sql.png)![JSON](https://img.icons8.com/color/30/json.png)![XML](https://img.icons8.com/color/30/xml.png)![FIREBASE](https://img.icons8.com/color/30/firebase.png)![GITHUB](https://img.icons8.com/color/30/github.png)![VISUAL-STUDIO](https://img.icons8.com/color/30/visual-studio.png)![VISUAL-STUDIO-CODE](https://img.icons8.com/color/30/visual-studio-code-2019.png)
+![Python](https://img.icons8.com/color/30/python.png)
+![SQL](https://img.icons8.com/color/30/sql.png)
+![JAVA](https://img.icons8.com/color/30/java.png)
+![TENSOR-FLOW](https://img.icons8.com/color/30/tensorflow.png)
+![REACT](https://img.icons8.com/plasticine/30/react.png)
+![C](https://img.icons8.com/color/30/c-sharp-logo.png)
+![JSON](https://img.icons8.com/color/30/json.png)
+![XML](https://img.icons8.com/color/30/xml.png)
+![FIREBASE](https://img.icons8.com/color/30/firebase.png)
+![GITHUB](https://img.icons8.com/color/30/github.png)
+![FIGMA](https://img.icons8.com/color/30/figma--v1.png)
+
 <!-- END My skills -->
 
 ---
@@ -48,7 +59,7 @@ Design tools such as Figma, MUI, Bootstrap.</br>
 * <details>
     <summary><b>Big-Data</b></summary><br/>
     knowledge at data analytics life cycle, EDA, linear and logistic regression, Missing values treatment, classification and evaluation </br>
- ML models like random forests, decision trees, KNN, SVM, unsupervised algorithms etc.
+ ML models like random forests, decision trees, KNN, SVM, unsupervised algorithms and ML tools (On and of the edge) such as Keras, Tensor flow, Tflote, TVM, ESP-IDF.
   </details>
     
 
