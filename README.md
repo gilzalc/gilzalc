@@ -43,9 +43,9 @@ Design tools such as Figma, MUI, Bootstrap.</br>
 #### ⚗️ Last projects
 [Recipe generation web app](https://grandma-cooked-oatmeal.web.app/) </br><span STYLE="font-size:5.0pt">exp. code:
  cE2TTVcL5nNLR83Z3dye6qscjLa2 </span> </br>
+[TinyML- from model to deployment](https://colab.research.google.com/drive/12GwfAZV9_RxU0prcS0W2Wvbf2uj3IWL4?usp=sharing)</br>
 [Fake news detector](https://colab.research.google.com/drive/1d0T7mT6rUUnSvD7Ei1J7WRqat1bCek4q) </br>
-[Tiny ML- from model to deployment](https://colab.research.google.com/drive/1d0T7mT6rUUnSvD7Ei1J7WRqat1bCek4q)</br>
-[Yelp consult]() </br>
+[Yelp consult](https://github.com/gilzalc/Yelp_consult) </br>
 
 ---
 
