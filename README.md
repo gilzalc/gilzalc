@@ -63,7 +63,7 @@ Design tools such as Figma, MUI, Bootstrap.</br>
 * <details>
     <summary><b>Big-Data</b></summary><br/>
     knowledge at data analytics life cycle, EDA, linear and logistic regression, Missing values treatment, classification and evaluation;
-     ML models like random forests, decision trees, KNN, SVM, unsupervised algorithms and ML tools (On and of the edge) such as Keras, Tensor flow, Tflote, TVM, ESP-IDF.</br>
+     ML models like random forests, decision trees, KNN, SVM, unsupervised algorithms and ML tools (On and of the edge) such as Keras, Tensor flow, TFlite, TVM, ESP-IDF.</br>
 
   </details>
     
