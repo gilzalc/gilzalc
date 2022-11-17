@@ -14,7 +14,7 @@ currently finishing up my 6th semester, and I have 1 semesters left until I grad
 
 <!-- My skills -->
 ### 🔧 My Skills:
-OOP in Java </br>
+OOP </br>
 Data science and statistics in Python (including Pandas, numpy, scikitlearn, bs4)
 and in R (including caret, ggplot2, dplyr) <br/>
 Web programming using JavaScript, React, and database access using firebase and pgAdmin (postgreSQL).
