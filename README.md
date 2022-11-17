@@ -5,7 +5,7 @@ My name is Gil Zalcberg, <br/>
 I am a B.Sc student in the "MATAR",
 an excellence program of the The School of Computer Science & Engineering- The Hebrew University of Jerusalem.
 I'm also studying a minor in CS, 
-currently finishing up my 6th semester, and I have 1 semesters left until I graduate.
+currently in my last year, and I have 1 semesters left until I graduate.
 <br/><br/>[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gil-zalcberg-234b481ba/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gilzalcberg96@gmail.com)
 <!--END About me -->
