@@ -41,6 +41,7 @@ Design tools such as Figma, MUI, Bootstrap.</br>
 
 
 #### ⚗️ Last projects
+[ETL pipeline- academic enrollments around the world](https://github.com/gilzalc/DB-design-data-pipeline/tree/main) </br>
 [TinyML- from model to deployment-Tensorflow, keras, pandas, TVM](https://colab.research.google.com/drive/12GwfAZV9_RxU0prcS0W2Wvbf2uj3IWL4?usp=sharing)</br>
 [Recipe generation web app - react and firebase DB](https://grandma-cooked-oatmeal.web.app/) </br><span STYLE="font-size:5.0pt">Demo code:
  <i>cE2TTVcL5nNLR83Z3dye6qscjLa2 </i></span> </br>
