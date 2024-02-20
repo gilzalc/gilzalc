@@ -1,11 +1,7 @@
 <!-- About Me -->
 ### 🦁 About Me: 
 Hello there!
-My name is Gil Zalcberg, <br/>
-I am a B.Sc student in the "MATAR",
-an excellence program of the The School of Computer Science & Engineering- The Hebrew University of Jerusalem.
-I'm also studying a minor in CS, 
-currently in my last year, and I have 1 semesters left until I graduate.
+I am a graduate of the Hebrew University School of Computer Science and Engineering, with experience in the ML and IoT realms. As an autodidact with a lifelong love of learning, I value innovation and creativity. Equipped with exceptional problem-solving, critical thinking, and communication skills, I am eager to contribute to projects that have a positive impact. My key areas of interest include data technologies, consumer behavior research, and product development.
 <br/><br/>[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gil-zalcberg-234b481ba/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gilzalcberg96@gmail.com)
 <!--END About me -->
